@@ -1,4 +1,5 @@
 # mern_todo_list
+# mern + redux app
 
 Simple page application where people can create their
 tasks.
